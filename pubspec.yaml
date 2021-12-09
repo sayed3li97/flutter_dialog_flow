@@ -1,0 +1,30 @@
+name: flutter_dialog_flow
+description: Build a ChatBot App with Flutter & DialogFlow
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  sound_stream: ^0.3.0
+  dialogflow_grpc: ^0.2.9
+  rxdart: ^0.27.2
+  chat_bubbles: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/credentials.json
