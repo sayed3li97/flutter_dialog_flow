@@ -4,7 +4,7 @@ This source code is to be used for "Build a chatbot with Flutter & DialogFlow" w
 The following code is based on CodeLab https://codelabs.developers.google.com/codelabs/dialogflow-flutter#0 
 
 ## ScreenShot
-<img height="350px" src="screenshots/flutter_chatbot.gif"
+<img height="500px" src="screenshots/flutter_chatbot.gif"
 alt="Flutter Chatbot" />
 
 ## Getting Started
